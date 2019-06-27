@@ -76,7 +76,7 @@ def reply_menu(reply_token):
           {
             "type": "message",
             "label": "Temperature",
-            "text": "Weather"
+            "text": "Temperature"
           }
         ]
       },

@@ -70,24 +70,24 @@ def reply_menu(reply_token):
     "actions": [],
     "columns": [
       {
-        "thumbnailImageUrl": "https://sv1.picz.in.th/images/2019/06/27/1CCpqZ.th.jpg",
-        "text": "weather",
+        "thumbnailImageUrl": "https://www.xda-developers.com/files/2018/05/android-weather-apps.png",
+        "text": "Weather",
         "actions": [
           {
             "type": "message",
-            "label": "weather",
-            "text": "weather"
+            "label": "Temperature",
+            "text": "Weather"
           }
         ]
       },
       {
-        "thumbnailImageUrl": "https://d3n8a8pro7vhmx.cloudfront.net/edonsw/pages/995/attachments/original/1386210667/green_energy_320.jpg",
-        "text": "energy",
+        "thumbnailImageUrl": "https://www.sans.org/sites/default/files/OUCH-August-2018.jpg",
+        "text": "Energy",
         "actions": [
           {
             "type": "message",
-            "label": "energy",
-            "text": "energy"
+            "label": "Energy",
+            "text": "Energy"
           }
         ]
       }
